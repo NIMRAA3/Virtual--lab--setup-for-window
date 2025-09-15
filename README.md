@@ -25,4 +25,4 @@ This lab teaches how to prepare a host computer for virtualization, install virt
 
 ## Lab Steps
 (rest of lab steps as before)
-
+[click here to download and read the detail step ](https://github.com/NIMRAA3/Virtual--lab--setup-for-window/blob/main/Setting%20virtual%20lab%20for%20window%20on%20personal%20computer.docx)
